@@ -1,5 +1,8 @@
 # Amazon SageMaker Safe Deployment Pipeline
 token  d1472c4baa55c3307b62462a5b342d55d14c97e7
+
+e41f3590ba70b0cdd1961d65d12838290274bb2f
+
 ## Introduction
 
 This is a sample solution to build a safe deployment pipeline for Amazon SageMaker.  This example could be useful for any organization looking to operationalize machine learning with native AWS development tools such as AWS CodePipeline, AWS CodeBuild and AWS CodeDeploy.
